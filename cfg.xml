@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cfg>
 	<show>1</show>
-	<showWithOutWIFI>1</showWithOutWIFI>
+	<showWithOutWIFI>0</showWithOutWIFI>
 </cfg>
